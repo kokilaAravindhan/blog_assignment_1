@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+.box{
+    padding: 60px;
+}
+.fa{
+    color: darkblue ;
+}
+.inside-box{
+    background-color: white;
+    padding: 55px 5px;
+    margin: 20px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+span{
+    font-size: 15px;
+
+}
+.content{
+   margin: 20px 0px;
+    
+}
